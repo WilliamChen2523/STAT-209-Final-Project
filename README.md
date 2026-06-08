@@ -147,7 +147,11 @@ University of California, Riverside
 
 
 The datasets link:
+
 1)https://www.kaggle.com/datasets/alitaqishah/iran-war-oil-shock-2026-brent-and-gas-tracker
+
 2)https://www.kaggle.com/datasets/hussnainmamoon1/hormuz-shipping-crisis-2026-daily-dataset
+
 3)https://www.kaggle.com/datasets/zkskhurram/world-vs-asia-fuel-prices
+
 4)https://www.bruegel.org/dataset/2026-european-energy-crisis-fiscal-response-tracker
